@@ -1,4 +1,3 @@
 # Power Apps for testing chest XRAYs for COVID-19
-## Here are the instructions to deploy
-
+Check COVID_PP_DeploymentGuide.docx for Instructions
 
